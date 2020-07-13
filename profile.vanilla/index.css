@@ -1,0 +1,28 @@
+body, html{
+    margin:0; 
+    padding:0; 
+    font-family: Arial;
+}
+
+*{ 
+    box-sizing:border-box;
+}
+
+main{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    
+}
+
+input, button{
+    display: block;
+    min-width: 40vw;
+    font-size: 1.6rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    outline: none;
+    margin: 1rem;
+   
+
+}
