@@ -2,7 +2,7 @@
 
 ## Function and App Idea:
 
-The app idea was to build a to-do List called ## ‘Checklist’.
+The app idea was to build a to-do List called ‘Checklist’.
 
 App is built for platforms in Svelte framework:
 - Mac
@@ -15,10 +15,6 @@ It’s a simple task-management app that is designed to organise oneself with pr
 The users of the app are those who work in an office or freelance, have lots of projects and clients to take care. They are looking for digital ways to organise themselves. They belong to different professions, and can be of any nationality. But all of them have one purpose- looking for task management apps to organise their work and projects.
 
 ## Product Site:
-
-![svelte electron](https://firebasestorage.googleapis.com/v0/b/fireship-app.appspot.com/o/assets%2Felectron-svelte-hello.png?alt=media&token=0d3ecb24-3024-4358-ac26-7676b3e60fa1)
-
-
 
 
 
