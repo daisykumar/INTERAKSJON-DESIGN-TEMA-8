@@ -14,6 +14,21 @@ It’s a simple task-management app that is designed to organise oneself with pr
 ## User Persona:
 The users of the app are those who work in an office or freelance, have lots of projects and clients to take care. They are looking for digital ways to organise themselves. They belong to different professions, and can be of any nationality. But all of them have one purpose- looking for task management apps to organise their work and projects.
 
+## Approach- Agile Proceess:
+Made use of AGILE method in the software development of the app that involves a continuous process of defining an app idea, designing, developing and deploying.
+
+Aim was to personalise the app suited for my user-needs and who they are as users, I sent the minimum-coded app along with the online questionnaire.  
+
+## MINIMUM VIABLE PRODUCT (MVP):
+Based my agile approach method on creating a MVP website with minimum code. Sent to the users during the research phase. This set my users focus in a more straightforward manner about what product I’m talking about- a to-do list. 
+
+With this approach, I got an opportunity to explore:
+- The need of the users and why they want a to-do app
+- User-centric functionality and interactions of the app
+- Features that the users want to see and experience
+- The preferred look and feel of the app
+
+
 ## Product Site:
 
 ![Start-screen](https://user-images.githubusercontent.com/56020145/87801209-ae45c100-c84f-11ea-8084-aaacc26bf66a.png)
