@@ -19,7 +19,7 @@ Made use of AGILE method in the software development of the app that involves a 
 
 Aim was to personalise the app suited for my user-needs and who they are as users, I sent the minimum-coded app along with the online questionnaire.  
 
-## MINIMUM VIABLE PRODUCT (MVP):
+## Minimum Viable Product (MVP):
 Based my agile approach method on creating a MVP website with minimum code. Sent to the users during the research phase. This set my users focus in a more straightforward manner about what product I’m talking about- a to-do list. 
 
 With this approach, I got an opportunity to explore:
