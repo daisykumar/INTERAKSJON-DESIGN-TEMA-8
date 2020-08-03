@@ -50,4 +50,4 @@ Electron utility apps
 
 Electron basics with Svelte: Using Electron to convert a website to a cross-platform desktop app
 
-Applicaiton- "Checklist"- a task management app.
+Applicaton- "Checklist"- a task management app.
